@@ -81,4 +81,20 @@ It emphasizes **reusability, controlled components, and declarative rendering** 
 
 ## 🗂️ Project Structure
 
-
+TIC-TAC-TOE/
+├── public/
+│   ├── bg-pattern-dark.png
+│   ├── bg-pattern.png
+│   └── game-logo.png
+├── src/
+│   ├── components/
+│   │   ├── Gameboard.jsx
+│   │   ├── Logs.jsx
+│   │   └── Player.jsx
+│   ├── winning-combinations.js
+│   ├── App.jsx
+│   ├── index.jsx
+│   └── index.css
+├── index.html
+├── package.json
+└── README.md
