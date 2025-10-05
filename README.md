@@ -79,8 +79,9 @@ It emphasizes **reusability, controlled components, and declarative rendering** 
 
 ---
 
-## 🗂️ Project Structure
+## 📁 Project Structure
 
+```bash
 TIC-TAC-TOE/
 ├── public/
 │   ├── bg-pattern-dark.png
