@@ -5,14 +5,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-A performant and modular **Tic Tac Toe** game built using **React (Vite)**, showcasing best practices in component-driven architecture, state management, and unidirectional data flow.
+A performant and modular **Tic Tac Toe** game built using **React (Vite)**, showcasing best practices in component-driven architecture, state management and unidirectional data flow.
 
 ---
 
 ## 🚀 Overview
 
-This project demonstrates how to build an interactive game using **React functional components**, **state lifting**, and **prop drilling** to maintain a single source of truth.  
-It emphasizes **reusability, controlled components, and declarative rendering** for predictable UI behavior.
+This project demonstrates how to build an interactive game using **React functional components**, **state lifting** and **prop drilling** to maintain a single source of truth.  
+It emphasizes **reusability, controlled components and declarative rendering** for predictable UI behavior.
 
 ---
 
